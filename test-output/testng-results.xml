@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28633" started-at="2021-04-25T09:40:44Z" finished-at="2021-04-25T09:41:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28633" started-at="2021-04-25T09:40:44Z" finished-at="2021-04-25T09:41:13Z">
+      <class name="LoginPackage.LoginTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:LoginPackage.LoginTest@28f67ac7]" name="beforeMethod" is-config="true" duration-ms="3376" started-at="2021-04-25T15:10:44Z" finished-at="2021-04-25T15:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="VerifyResetPassword()[pri:0, instance:LoginPackage.LoginTest@28f67ac7]" name="VerifyResetPassword" duration-ms="24585" started-at="2021-04-25T15:10:48Z" finished-at="2021-04-25T15:11:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyResetPassword -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:LoginPackage.LoginTest@28f67ac7]" name="afterMethod" is-config="true" duration-ms="657" started-at="2021-04-25T15:11:12Z" finished-at="2021-04-25T15:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- LoginPackage.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
